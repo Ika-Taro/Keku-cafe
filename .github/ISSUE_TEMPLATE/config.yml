@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+contact_links:
+ - name: Add new ToDo
+ about: made by config.yml
+ 
+ url: https://github.com/Ika-Taro/ToDo/issue/new?template=custom.md&projects=kaitas%2FToDo%2F1&labels=ToDo
